@@ -1,0 +1,19 @@
+body {
+  background-image: url("../images/background-green2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+.navbar-footer {
+  background-color: #000000;
+  position: bottom;
+  margin-top: 100px;
+  opacity: 0.8; }
+
+.mb-0 {
+  cursor: pointer; }
+
+.footer {
+  margin: -200px; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/background-green2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  .form, {
+    width:250px;
+
+  }
+
+  .navbar-footer {
+    background-color: #000000;
+    opacity: 0.8;
+  }
+}
+
+@media (min-width: 1200px) {
+  footer {
+    margin-top: 230px;
+  }
+}

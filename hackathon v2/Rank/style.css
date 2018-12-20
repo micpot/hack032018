@@ -1,0 +1,48 @@
+body {
+  background-image: url("../images/background-green2.png");
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+footer {
+  position: relative;
+}
+
+.navbar-footer {
+  background-color: #000000;
+  margin-top: 100px;
+  opacity: 0.8; }
+
+.table-scroll {
+  width: 100%;
+  align: center;
+}
+
+tbody {
+  height: 100em;
+  overflow: scroll;
+}
+
+.filterable {
+    margin-top: 15px;
+}
+.filterable .panel-heading .pull-right {
+    margin-top: -20px;
+}
+.filterable .filters input[disabled] {
+    background-color: transparent;
+    border: none;
+    cursor: auto;
+    box-shadow: none;
+    padding: 0;
+    height: auto;
+}
+.filterable .filters input[disabled]::-webkit-input-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]::-moz-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]:-ms-input-placeholder {
+    color: #333;
+}
+/*# sourceMappingURL=style.css.map */

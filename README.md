@@ -2,7 +2,3 @@ This project is a front part of a website created for an IT event. It was built 
 
 
 **The website is based on Bootstrap with the usage of Sass.**
-
-<a href="https://micpot.github.io/hack032018/hackathon v2/../">website preview</a>
-
-
